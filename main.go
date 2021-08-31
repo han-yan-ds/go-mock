@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	mocks "github.com/han-yan-ds/go-mock/mocks"
+	"github.com/han-yan-ds/go-mock/mocks"
 )
 
 func main() {
